@@ -1,4 +1,4 @@
-# Challenge 2 LiterAlura 
+# Challenge 2 LiterAlura 📖
 
 En este challenge desarrollamos una aplicación de consola en Java, que permite buscar libros, listar libros y autores. 
 La aplicación se conecta a la API de Gutendex para obtener la información de los libros y en una base de datos PostgreSQL se almacenan los datos. 
